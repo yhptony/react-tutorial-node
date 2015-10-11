@@ -1,2 +1,3 @@
-# react-tutorial-node
-reference reactjs/react-tutorial
+# React Tutorial for Node.js
+
+Reference: https://github.com/reactjs/react-tutorial
