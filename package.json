@@ -1,0 +1,36 @@
+{
+  "name": "react-tutorial-node",
+  "version": "1.0.0",
+  "description": "custom code from the React official tutorial for react-0.14.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yhptony/react-tutorial-node.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial",
+    "comment",
+    "example"
+  ],
+  "author": "tonny_yan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhptony/react-tutorial-node/issues"
+  },
+  "homepage": "https://github.com/yhptony/react-tutorial-node",
+
+  "engines": {
+    "node" : "0.12.x"
+  }
+}
